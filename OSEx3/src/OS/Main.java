@@ -6,12 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
 
-/*
-Tamir Abutbul, 208206771
-Yuval Katzir , 318644861
-Ofir  Mutzafi, 208298653
-*/
-
 public class Main {
 
     private static class ProcessComp implements Comparable {
